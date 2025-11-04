@@ -1,5 +1,3 @@
-# README for Notes App
-
 # Notes App (Python)
 
 # Overview
